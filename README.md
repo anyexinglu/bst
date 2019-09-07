@@ -12,3 +12,10 @@
 | Trigger | Description |
 | ------- | ----------- |
 | bstbtn  | Button      |
+
+
+vscode安装后的效果图：
+
+![](https://user-gold-cdn.xitu.io/2019/9/7/16d0acf13c3cba51?w=1808&h=660&f=png&s=151696)
+
+![](https://user-gold-cdn.xitu.io/2019/9/7/16d0acf503761cd6?w=1580&h=352&f=png&s=41297)
