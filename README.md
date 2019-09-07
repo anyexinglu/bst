@@ -1,4 +1,4 @@
-## ast
+## bst
 
 以 vscode 的 "js 代码片断---bst"插件为例，演示如何开发 & 发布 vscode 插件。
 
