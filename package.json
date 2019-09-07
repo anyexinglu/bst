@@ -4,6 +4,10 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "yanxingzhe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anyexinglue/bst-snippets/"
+  },
   "engines": {
     "vscode": "^1.38.0"
   },
