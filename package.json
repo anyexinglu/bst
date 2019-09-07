@@ -9,7 +9,7 @@
     "url": "https://github.com/anyexinglue/bst-snippets/"
   },
   "engines": {
-    "vscode": "^1.38.0"
+    "vscode": "^1.5.0"
   },
   "categories": [
     "Snippets"
