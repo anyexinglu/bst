@@ -5,5 +5,9 @@
       "<Button type=\"${1|default,primary,dashed,danger|}\">$2</Button>",
       ""
     ]
+  },
+  "Icon": {
+    "prefix": "bsticon",
+    "body": ["<Icon type=\"${1|default,primary,dashed,danger|}\"/>", ""]
   }
 }
